@@ -7,3 +7,4 @@ C++文件对比，以二进制形式对比两个文件是否一致
 使用方法
 chmod +x auto_compare.sh
 ./auto_compare.sh
+
